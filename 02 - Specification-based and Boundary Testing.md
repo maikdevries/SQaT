@@ -68,4 +68,6 @@ The **CORRECT** way of testing boundary points:
 - **T**ime
 	- Systems rely on dates and times - test whether dates, timeouts and concurrency is handled well
 
+<br>
+
 **Domain testing** is the combination of *equivalent class analysis* and boundary testing into one strategy.
